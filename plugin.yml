@@ -1,1 +1,12 @@
 
+name: CBStats
+version: 1.0.0
+main: stats\StatsClass
+api:
+- 3.0.0
+- 4.0.0
+author: Aleondev
+
+commands:
+ stats:
+   description: §6Stats §7Command
