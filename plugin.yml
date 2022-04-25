@@ -6,7 +6,11 @@ api:
 - 3.0.0
 - 4.0.0
 author: Aleondev
+permissions:
+ stats.command:
+  deafult: true
 
 commands:
  stats:
    description: §6Stats §7Command
+   permission: stats.command
